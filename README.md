@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a comprehensive report document related to **LPSC (Liquid Propulsion Systems Centre)**, which is a premier research and development facility under the Indian Space Research Organisation (ISRO).
+This repository contains a comprehensive report document related to **LPSC (Liquid Propulsion Systems Centre)**, which is a premier research and development facility under the Indian Space Research Organisation (ISRO)
 
 ## Document Overview
 
